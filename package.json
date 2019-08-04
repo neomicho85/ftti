@@ -5,11 +5,17 @@
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.1"
+    "react-scripts": "3.0.1",
+    "express": "^4.17.1",
+    "fsevents": "^1.2.9",
+    "mysql": "^2.17.1",
+    "nan": "^2.14.0",
+    "nodemon": "^1.19.1"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "dev": "npx nodemon server/server.js -w server",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
