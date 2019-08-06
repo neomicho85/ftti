@@ -1,0 +1,33 @@
+#main-navbar {
+
+    .nav-item {
+
+        .nav-link {
+            padding: 1.5rem 1rem;
+            color: var(--inactive-blue);
+            transition: background-color .25s ease-in-out;
+
+            &:hover {
+                background-color: var(--hover-blue);
+            }
+
+            &.active {
+                color: var(--dark-blue);
+                position: relative;
+                font-weight: 700;
+
+                &:after {
+                    content: '';
+                    position: absolute;
+                    bottom: 0;
+                    height: 3px;
+                    right: 0;
+                    width: 100%;
+                    background-color: var(--blue);
+                }
+            }
+        }
+
+    }
+
+}

@@ -1,0 +1,1038 @@
+[
+    {
+      "Date": "2019-07-18",
+      "Description": "VISA DDA PUR 442733     MCDONALD S F1583            MIAMI         * FL",
+      "Debit": 8.77,
+      "Credit": "",
+      "Balance": 2083.99
+    },
+    {
+      "Date": "2019-07-17",
+      "Description": "DDA PURCHASE *5473 319181     THE HOME DEPOT  0251        N MIAMI BEACH * FL",
+      "Debit": 9.38,
+      "Credit": "",
+      "Balance": 2092.76
+    },
+    {
+      "Date": "2019-07-17",
+      "Description": "ACORNS INVESTING TRANSFER",
+      "Debit": 20,
+      "Credit": "",
+      "Balance": 2102.14
+    },
+    {
+      "Date": "2019-07-17",
+      "Description": "CAPITAL ONE      MOBILE PMT",
+      "Debit": 70,
+      "Credit": "",
+      "Balance": 2122.14
+    },
+    {
+      "Date": "2019-07-16",
+      "Description": "DDA PURCHASE *5473 318811     WINN DIXIE    03 3805 NE    N MIAMI BEACH * FL",
+      "Debit": 12.42,
+      "Credit": "",
+      "Balance": 2192.14
+    },
+    {
+      "Date": "2019-07-16",
+      "Description": "ATM CASH DEPOSIT TW04A307   16830 COLLINS AVE           SUNNY ISLES B * FL",
+      "Debit": "",
+      "Credit": 370,
+      "Balance": 2204.56
+    },
+    {
+      "Date": "2019-07-16",
+      "Description": "Online Xfer Transfer to CC x0274",
+      "Debit": 70,
+      "Credit": "",
+      "Balance": 1834.56
+    },
+    {
+      "Date": "2019-07-16",
+      "Description": "PAYPAL           INST XFER",
+      "Debit": 30.74,
+      "Credit": "",
+      "Balance": 1904.56
+    },
+    {
+      "Date": "2019-07-16",
+      "Description": "GIROSOL          PAYROLL",
+      "Debit": "",
+      "Credit": 789.93,
+      "Balance": 1935.3
+    },
+    {
+      "Date": "2019-07-16",
+      "Description": "VISA DDA PUR 427539     CARROTEXPRESSCOLLINS 2      MIAMI         * FL",
+      "Debit": 11.72,
+      "Credit": "",
+      "Balance": 1145.37
+    },
+    {
+      "Date": "2019-07-15",
+      "Description": "DDA PURCHASE *5473 318811     WINN DIXIE    03 3805 NE    N MIAMI BEACH * FL",
+      "Debit": 24.03,
+      "Credit": "",
+      "Balance": 1157.09
+    },
+    {
+      "Date": "2019-07-15",
+      "Description": "VISA DDA PUR 443106     AMERICAN AIR001026647934    FORT WORTH    * TX",
+      "Debit": 40,
+      "Credit": "",
+      "Balance": 1181.12
+    },
+    {
+      "Date": "2019-07-15",
+      "Description": "VISA DDA PUR 443106     AMERICAN AIR001026647533    FORT WORTH    * TX",
+      "Debit": 70,
+      "Credit": "",
+      "Balance": 1221.12
+    },
+    {
+      "Date": "2019-07-12",
+      "Description": "DDA PURCHASE *5473 319139     MIAMI TO GO                 MIAMI         * FL",
+      "Debit": 4.26,
+      "Credit": "",
+      "Balance": 1291.12
+    },
+    {
+      "Date": "2019-07-12",
+      "Description": "DDA PURCHASE *5473 28747206   703 DUTY FREE A             MIAMI         * FL",
+      "Debit": 123,
+      "Credit": "",
+      "Balance": 1295.38
+    },
+    {
+      "Date": "2019-07-12",
+      "Description": "DDA WITHDRAW *5473 TW04C051   1190 NE 163RD STREET        N MIAMI BEACH * FL",
+      "Debit": 200,
+      "Credit": "",
+      "Balance": 1418.38
+    },
+    {
+      "Date": "2019-07-11",
+      "Description": "VISA DDA PUR 460005     P2P YISELYS  BENAVIDES      VISA DIRECT   * AZ",
+      "Debit": 37,
+      "Credit": "",
+      "Balance": 1618.38
+    },
+    {
+      "Date": "2019-07-11",
+      "Description": "ENGLISH WORLDWID IAT PAYPAL",
+      "Debit": 14.99,
+      "Credit": "",
+      "Balance": 1655.38
+    },
+    {
+      "Date": "2019-07-11",
+      "Description": "VISA DDA PUR 443106     MIA PARKING PLAZA           MIAMI         * FL",
+      "Debit": 2,
+      "Credit": "",
+      "Balance": 1670.37
+    },
+    {
+      "Date": "2019-07-10",
+      "Description": "DDA PURCHASE *5473 32350045   WM SUPERC WAL MART SUP      N MIAMI BEACH * FL",
+      "Debit": 36.03,
+      "Credit": "",
+      "Balance": 1672.37
+    },
+    {
+      "Date": "2019-07-10",
+      "Description": "VISA TRANSFER 460005     P2P FERNANDO  J ROSARIO     VISA DIRECT   * AZ",
+      "Debit": "",
+      "Credit": 100,
+      "Balance": 1708.4
+    },
+    {
+      "Date": "2019-07-10",
+      "Description": "ACORNS INVESTING TRANSFER",
+      "Debit": 20,
+      "Credit": "",
+      "Balance": 1608.4
+    },
+    {
+      "Date": "2019-07-10",
+      "Description": "AMEX EPAYMENT    ACH PMT",
+      "Debit": 373.64,
+      "Credit": "",
+      "Balance": 1628.4
+    },
+    {
+      "Date": "2019-07-09",
+      "Description": "PAYPAL           INST XFER",
+      "Debit": 9.72,
+      "Credit": "",
+      "Balance": 2002.04
+    },
+    {
+      "Date": "2019-07-09",
+      "Description": "GIROSOL          PAYROLL",
+      "Debit": "",
+      "Credit": 789.93,
+      "Balance": 2011.76
+    },
+    {
+      "Date": "2019-07-08",
+      "Description": "DDA PURCHASE *5473 315799     NORTH MIAMI BCH VALERO      NORTH MIAMI   * FL",
+      "Debit": 21.01,
+      "Credit": "",
+      "Balance": 1221.83
+    },
+    {
+      "Date": "2019-07-08",
+      "Description": "DEBIT",
+      "Debit": 800,
+      "Credit": "",
+      "Balance": 1242.84
+    },
+    {
+      "Date": "2019-07-08",
+      "Description": "ATM CASH DEPOSIT TW04C052   1190 NE 163RD STREET        N MIAMI BEACH * FL",
+      "Debit": "",
+      "Credit": 20,
+      "Balance": 2042.84
+    },
+    {
+      "Date": "2019-07-08",
+      "Description": "ATM CASH DEPOSIT TW04C052   1190 NE 163RD STREET        N MIAMI BEACH * FL",
+      "Debit": "",
+      "Credit": 280,
+      "Balance": 2022.84
+    },
+    {
+      "Date": "2019-07-08",
+      "Description": "VISA DDA PUR 469216     METROPCS AUTO PAY           888 863 8768  * WA",
+      "Debit": 40,
+      "Credit": "",
+      "Balance": 1742.84
+    },
+    {
+      "Date": "2019-07-08",
+      "Description": "DDA PURCHASE *5473 318811     WINN DIXIE    03 3805 NE    N MIAMI BEACH * FL",
+      "Debit": 13.39,
+      "Credit": "",
+      "Balance": 1782.84
+    },
+    {
+      "Date": "2019-07-08",
+      "Description": "ATM CASH DEPOSIT TW04A307   16830 COLLINS AVE           SUNNY ISLES B * FL",
+      "Debit": "",
+      "Credit": 110,
+      "Balance": 1796.23
+    },
+    {
+      "Date": "2019-07-08",
+      "Description": "VISA DDA PUR 469216     COMCAST CABLE COMM          800 COMCAST   * FL",
+      "Debit": 53.9,
+      "Credit": "",
+      "Balance": 1686.23
+    },
+    {
+      "Date": "2019-07-05",
+      "Description": "PAYPAL           INST XFER",
+      "Debit": 5.61,
+      "Credit": "",
+      "Balance": 1740.13
+    },
+    {
+      "Date": "2019-07-03",
+      "Description": "ACORNS INVESTING TRANSFER",
+      "Debit": 25,
+      "Credit": "",
+      "Balance": 1745.74
+    },
+    {
+      "Date": "2019-07-03",
+      "Description": "ACORNS INVESTING TRANSFER",
+      "Debit": 20,
+      "Credit": "",
+      "Balance": 1770.74
+    },
+    {
+      "Date": "2019-07-03",
+      "Description": "PROG SELECT INS  INS PREM",
+      "Debit": 136.5,
+      "Credit": "",
+      "Balance": 1790.74
+    },
+    {
+      "Date": "2019-07-02",
+      "Description": "VISA TRANSFER 460005     P2P BENAVIDES   YISELYS     VISA DIRECT   * AZ",
+      "Debit": "",
+      "Credit": 25,
+      "Balance": 1927.24
+    },
+    {
+      "Date": "2019-07-02",
+      "Description": "GIROSOL          PAYROLL",
+      "Debit": "",
+      "Credit": 789.98,
+      "Balance": 1902.24
+    },
+    {
+      "Date": "2019-07-01",
+      "Description": "SUBSCRIPTION     ACORNS",
+      "Debit": 1,
+      "Credit": "",
+      "Balance": 1112.26
+    },
+    {
+      "Date": "2019-06-28",
+      "Description": "HONDA PMT        8005435636",
+      "Debit": 333.31,
+      "Credit": "",
+      "Balance": 1113.26
+    },
+    {
+      "Date": "2019-06-28",
+      "Description": "VISA DDA PUR 469216     AMZN MKTP US MH4JI93Z1      AMZN COM BILL * WA",
+      "Debit": 27.39,
+      "Credit": "",
+      "Balance": 1446.57
+    },
+    {
+      "Date": "2019-06-27",
+      "Description": "VISA DDA PUR 460005     P2P YISELYS  BENAVIDES      VISA DIRECT   * AZ",
+      "Debit": 50,
+      "Credit": "",
+      "Balance": 1473.96
+    },
+    {
+      "Date": "2019-06-27",
+      "Description": "GCS 800-398-7191 DEPOSITTRN",
+      "Debit": 300,
+      "Credit": "",
+      "Balance": 1523.96
+    },
+    {
+      "Date": "2019-06-26",
+      "Description": "ACORNS INVESTING TRANSFER",
+      "Debit": 25,
+      "Credit": "",
+      "Balance": 1823.96
+    },
+    {
+      "Date": "2019-06-26",
+      "Description": "ACORNS INVESTING TRANSFER",
+      "Debit": 20,
+      "Credit": "",
+      "Balance": 1848.96
+    },
+    {
+      "Date": "2019-06-26",
+      "Description": "VISA DDA PUR 413829     WU  4002846223              877 989 3268  * CA",
+      "Debit": 35.89,
+      "Credit": "",
+      "Balance": 1868.96
+    },
+    {
+      "Date": "2019-06-25",
+      "Description": "VISA TRANSFER 460005     P2P BENAVIDES   YISELYS     VISA DIRECT   * AZ",
+      "Debit": "",
+      "Credit": 25,
+      "Balance": 1904.85
+    },
+    {
+      "Date": "2019-06-25",
+      "Description": "VISA DDA PUR 460005     P2P YISELYS  BENAVIDES      VISA DIRECT   * AZ",
+      "Debit": 925,
+      "Credit": "",
+      "Balance": 1879.85
+    },
+    {
+      "Date": "2019-06-25",
+      "Description": "GIROSOL          PAYROLL",
+      "Debit": "",
+      "Credit": 789.93,
+      "Balance": 2804.85
+    },
+    {
+      "Date": "2019-06-25",
+      "Description": "VISA DDA PUR 469216     GOOGLE  PLAY                G CO HELPPAY  * CA",
+      "Debit": 15.99,
+      "Credit": "",
+      "Balance": 2014.92
+    },
+    {
+      "Date": "2019-06-25",
+      "Description": "VISA DDA PUR 469216     PANERA BREAD  601625 P      AVENTURA      * FL",
+      "Debit": 7.43,
+      "Credit": "",
+      "Balance": 2030.91
+    },
+    {
+      "Date": "2019-06-24",
+      "Description": "VISA DDA PUR 469216     PANERA BREAD  601625 P      AVENTURA      * FL",
+      "Debit": 13.4,
+      "Credit": "",
+      "Balance": 2038.34
+    },
+    {
+      "Date": "2019-06-24",
+      "Description": "DDA PURCHASE *5473 318811     WINN DIXIE    03 3805 NE    N MIAMI BEACH * FL",
+      "Debit": 51.97,
+      "Credit": "",
+      "Balance": 2051.74
+    },
+    {
+      "Date": "2019-06-24",
+      "Description": "DDA PURCHASE *5473 32799001   MARSHALLS 1205 NE 163R      N MIAMI BEACH * FL",
+      "Debit": 83.37,
+      "Credit": "",
+      "Balance": 2103.71
+    },
+    {
+      "Date": "2019-06-20",
+      "Description": "DDA PURCHASE *5473 318198     WALGREENS STORE 1501 NE     NORTH MIAMI B * FL",
+      "Debit": 38.52,
+      "Credit": "",
+      "Balance": 2187.08
+    },
+    {
+      "Date": "2019-06-20",
+      "Description": "CAPITAL ONE      MOBILE PMT",
+      "Debit": 70,
+      "Credit": "",
+      "Balance": 2225.6
+    },
+    {
+      "Date": "2019-06-19",
+      "Description": "DDA PURCHASE *5473 318811     WINN DIXIE    03 3805 NE    N MIAMI BEACH * FL",
+      "Debit": 14.06,
+      "Credit": "",
+      "Balance": 2295.6
+    },
+    {
+      "Date": "2019-06-19",
+      "Description": "DDA PURCHASE *5473 315799     NORTH MIAMI BCH VALERO      NORTH MIAMI   * FL",
+      "Debit": 19.79,
+      "Credit": "",
+      "Balance": 2309.66
+    },
+    {
+      "Date": "2019-06-19",
+      "Description": "ACORNS INVESTING TRANSFER",
+      "Debit": 25,
+      "Credit": "",
+      "Balance": 2329.45
+    },
+    {
+      "Date": "2019-06-19",
+      "Description": "ACORNS INVESTING TRANSFER",
+      "Debit": 20,
+      "Credit": "",
+      "Balance": 2354.45
+    },
+    {
+      "Date": "2019-06-19",
+      "Description": "VISA DDA PUR 443106     AMAZON COM M69AM3QJ2 AMZ    AMZN COM BILL * WA",
+      "Debit": 63.12,
+      "Credit": "",
+      "Balance": 2374.45
+    },
+    {
+      "Date": "2019-06-18",
+      "Description": "VISA TRANSFER 460005     P2P BENAVIDES   YISELYS     VISA DIRECT   * AZ",
+      "Debit": "",
+      "Credit": 25,
+      "Balance": 2437.57
+    },
+    {
+      "Date": "2019-06-18",
+      "Description": "Online Xfer Transfer to CC x0274",
+      "Debit": 70,
+      "Credit": "",
+      "Balance": 2412.57
+    },
+    {
+      "Date": "2019-06-18",
+      "Description": "GIROSOL          PAYROLL",
+      "Debit": "",
+      "Credit": 789.93,
+      "Balance": 2482.57
+    },
+    {
+      "Date": "2019-06-17",
+      "Description": "DDA PURCHASE *5473 318811     WINN DIXIE    03 3805 NE    N MIAMI BEACH * FL",
+      "Debit": 17.91,
+      "Credit": "",
+      "Balance": 1692.64
+    },
+    {
+      "Date": "2019-06-17",
+      "Description": "DDA PURCHASE *5473 32350049   WM SUPERC WAL MART SUP      N MIAMI BEACH * FL",
+      "Debit": 29.91,
+      "Credit": "",
+      "Balance": 1710.55
+    },
+    {
+      "Date": "2019-06-17",
+      "Description": "DDA PURCHASE *5473 94838000   TOTAL WINE AND MORE 91      NORTH MIAMI   * FL",
+      "Debit": 32.09,
+      "Credit": "",
+      "Balance": 1740.46
+    },
+    {
+      "Date": "2019-06-17",
+      "Description": "VISA DDA PUR 406106     GINZA JAPANESE BUFFET       NORTH MIAMI B * FL",
+      "Debit": 15.29,
+      "Credit": "",
+      "Balance": 1772.55
+    },
+    {
+      "Date": "2019-06-17",
+      "Description": "VISA DDA PUR 469216     BODYBUILDING COM            866 236 8417  * ID",
+      "Debit": 8.99,
+      "Credit": "",
+      "Balance": 1787.84
+    },
+    {
+      "Date": "2019-06-14",
+      "Description": "PAYPAL           INST XFER",
+      "Debit": 14,
+      "Credit": "",
+      "Balance": 1796.83
+    },
+    {
+      "Date": "2019-06-12",
+      "Description": "ACORNS INVESTING TRANSFER",
+      "Debit": 50,
+      "Credit": "",
+      "Balance": 1810.83
+    },
+    {
+      "Date": "2019-06-12",
+      "Description": "ACORNS INVESTING TRANSFER",
+      "Debit": 20,
+      "Credit": "",
+      "Balance": 1860.83
+    },
+    {
+      "Date": "2019-06-11",
+      "Description": "VISA TRANSFER 460005     P2P BENAVIDES   YISELYS     VISA DIRECT   * AZ",
+      "Debit": "",
+      "Credit": 50,
+      "Balance": 1880.83
+    },
+    {
+      "Date": "2019-06-11",
+      "Description": "GIROSOL          PAYROLL",
+      "Debit": "",
+      "Credit": 789.93,
+      "Balance": 1830.83
+    },
+    {
+      "Date": "2019-06-10",
+      "Description": "DDA PURCHASE *5473 318811     WINN DIXIE    03 3805 NE    N MIAMI BEACH * FL",
+      "Debit": 21.5,
+      "Credit": "",
+      "Balance": 1040.9
+    },
+    {
+      "Date": "2019-06-10",
+      "Description": "VISA DDA PUR 405523     TROPICS CAFE                MIAMI         * FL",
+      "Debit": 16,
+      "Credit": "",
+      "Balance": 1062.4
+    },
+    {
+      "Date": "2019-06-10",
+      "Description": "VISA DDA PUR 469216     METROPCS AUTO PAY           888 863 8768  * WA",
+      "Debit": 40,
+      "Credit": "",
+      "Balance": 1078.4
+    },
+    {
+      "Date": "2019-06-07",
+      "Description": "VISA DDA PUR 469216     COMCAST CABLE COMM          800 COMCAST   * FL",
+      "Debit": 53.9,
+      "Credit": "",
+      "Balance": 1118.4
+    },
+    {
+      "Date": "2019-06-06",
+      "Description": "AMEX EPAYMENT    ACH PMT",
+      "Debit": 325.02,
+      "Credit": "",
+      "Balance": 1172.3
+    },
+    {
+      "Date": "2019-06-06",
+      "Description": "VISA DDA PUR 443106     DUNKIN  343805              NORTH MIAMI B * FL",
+      "Debit": 15.12,
+      "Credit": "",
+      "Balance": 1497.32
+    },
+    {
+      "Date": "2019-06-05",
+      "Description": "ACORNS INVESTING TRANSFER",
+      "Debit": 20,
+      "Credit": "",
+      "Balance": 1512.44
+    },
+    {
+      "Date": "2019-06-05",
+      "Description": "VISA DDA PUR 442629     MI TIERRA                   NORTH MIAMI B * FL",
+      "Debit": 17.03,
+      "Credit": "",
+      "Balance": 1532.44
+    },
+    {
+      "Date": "2019-06-05",
+      "Description": "VISA DDA PUR 449215     HARRYS 888 212 6855         HTTPSWWW HARR * NY",
+      "Debit": 15,
+      "Credit": "",
+      "Balance": 1549.47
+    },
+    {
+      "Date": "2019-06-04",
+      "Description": "SUBSCRIPTION     ACORNS",
+      "Debit": 1,
+      "Credit": "",
+      "Balance": 1564.47
+    },
+    {
+      "Date": "2019-06-04",
+      "Description": "PROG SELECT INS  INS PREM",
+      "Debit": 135.53,
+      "Credit": "",
+      "Balance": 1565.47
+    },
+    {
+      "Date": "2019-06-04",
+      "Description": "GIROSOL          PAYROLL",
+      "Debit": "",
+      "Credit": 789.93,
+      "Balance": 1701
+    },
+    {
+      "Date": "2019-06-03",
+      "Description": "DDA PURCHASE *5473 318811     WINN DIXIE    03 3805 NE    N MIAMI BEACH * FL",
+      "Debit": 46.83,
+      "Credit": "",
+      "Balance": 911.07
+    },
+    {
+      "Date": "2019-06-03",
+      "Description": "DDA PURCHASE *5473 315799     NORTH MIAMI BCH VALERO      NORTH MIAMI   * FL",
+      "Debit": 23.1,
+      "Credit": "",
+      "Balance": 957.9
+    },
+    {
+      "Date": "2019-06-03",
+      "Description": "VISA DDA PUR 443106     SUNPASS ACC23181814         888 865 5352  * FL",
+      "Debit": 25,
+      "Credit": "",
+      "Balance": 981
+    },
+    {
+      "Date": "2019-06-03",
+      "Description": "VISA DDA PUR 443106     AMZN MKTP US MN7OK0U70 A    AMZN COM BILL * WA",
+      "Debit": 13.98,
+      "Credit": "",
+      "Balance": 1006
+    },
+    {
+      "Date": "2019-06-03",
+      "Description": "VISA DDA PUR 469216     AMZN MKTP US MN6S17WK2      AMZN COM BILL * WA",
+      "Debit": 22.99,
+      "Credit": "",
+      "Balance": 1019.98
+    },
+    {
+      "Date": "2019-05-31",
+      "Description": "VISA DDA PUR 460005     P2P YISELYS  BENAVIDES      VISA DIRECT   * AZ",
+      "Debit": 37,
+      "Credit": "",
+      "Balance": 1042.97
+    },
+    {
+      "Date": "2019-05-31",
+      "Description": "CAPITAL ONE      MOBILE PMT",
+      "Debit": 35,
+      "Credit": "",
+      "Balance": 1079.97
+    },
+    {
+      "Date": "2019-05-30",
+      "Description": "ACORNS INVESTING TRANSFER",
+      "Debit": 50,
+      "Credit": "",
+      "Balance": 1114.97
+    },
+    {
+      "Date": "2019-05-30",
+      "Description": "VISA DDA PUR 427539     CARROTEXPRESSCOLLINS 2      MIAMI         * FL",
+      "Debit": 6.37,
+      "Credit": "",
+      "Balance": 1164.97
+    },
+    {
+      "Date": "2019-05-29",
+      "Description": "VISA TRANSFER 460005     P2P BENAVIDES   YISELYS     VISA DIRECT   * AZ",
+      "Debit": "",
+      "Credit": 50,
+      "Balance": 1171.34
+    },
+    {
+      "Date": "2019-05-29",
+      "Description": "ACORNS INVESTING TRANSFER",
+      "Debit": 20,
+      "Credit": "",
+      "Balance": 1121.34
+    },
+    {
+      "Date": "2019-05-29",
+      "Description": "HONDA PMT        8005435636",
+      "Debit": 333.31,
+      "Credit": "",
+      "Balance": 1141.34
+    },
+    {
+      "Date": "2019-05-29",
+      "Description": "GIROSOL          PAYROLL",
+      "Debit": "",
+      "Credit": 789.93,
+      "Balance": 1474.65
+    },
+    {
+      "Date": "2019-05-29",
+      "Description": "VISA DDA PUR 427539     CARROTEXPRESSCOLLINS 2      MIAMI         * FL",
+      "Debit": 30.38,
+      "Credit": "",
+      "Balance": 684.72
+    },
+    {
+      "Date": "2019-05-28",
+      "Description": "NONTD ATM FEE",
+      "Debit": 3,
+      "Credit": "",
+      "Balance": 715.1
+    },
+    {
+      "Date": "2019-05-28",
+      "Description": "VISA DDA PUR 460005     P2P YISELYS  BENAVIDES      VISA DIRECT   * AZ",
+      "Debit": 925,
+      "Credit": "",
+      "Balance": 718.1
+    },
+    {
+      "Date": "2019-05-28",
+      "Description": "GCS 800-398-7191 DEPOSITTRN",
+      "Debit": 300,
+      "Credit": "",
+      "Balance": 1643.1
+    },
+    {
+      "Date": "2019-05-28",
+      "Description": "DDA WITHDRAW *5473 RT02182    PAI ISO                     CLEWISTON     * FL",
+      "Debit": 62.75,
+      "Credit": "",
+      "Balance": 1943.1
+    },
+    {
+      "Date": "2019-05-28",
+      "Description": "VISA DDA PUR 401339     USCONNECT RTCHC VEND S      POMPANO BEACH * FL",
+      "Debit": 1.6,
+      "Credit": "",
+      "Balance": 2005.85
+    },
+    {
+      "Date": "2019-05-28",
+      "Description": "VISA DDA PUR 401339     USCONNECT RTCHC VEND S      POMPANO BEACH * FL",
+      "Debit": 1.6,
+      "Credit": "",
+      "Balance": 2007.45
+    },
+    {
+      "Date": "2019-05-28",
+      "Description": "DDA PURCHASE *5473 314017     COSTCO WHSE  1332           NORTH MIAMI   * FL",
+      "Debit": 31.02,
+      "Credit": "",
+      "Balance": 2009.05
+    },
+    {
+      "Date": "2019-05-28",
+      "Description": "DDA PURCHASE *5473 314017     COSTCO WHSE  1332           NORTH MIAMI   * FL",
+      "Debit": 47.68,
+      "Credit": "",
+      "Balance": 2040.07
+    },
+    {
+      "Date": "2019-05-28",
+      "Description": "VISA DDA PUR 469216     TM  CIRQUE DU SOLEIL        800 653 8000  * CA",
+      "Debit": 162.85,
+      "Credit": "",
+      "Balance": 2087.75
+    },
+    {
+      "Date": "2019-05-24",
+      "Description": "DDA PURCHASE *5473 318811     WINN DIXIE    03 3805 NE    N MIAMI BEACH * FL",
+      "Debit": 13.67,
+      "Credit": "",
+      "Balance": 2250.6
+    },
+    {
+      "Date": "2019-05-24",
+      "Description": "VISA DDA PUR 427009     LA GRANJA N  MIAMI BEACH    N MIAMI BEACH * FL",
+      "Debit": 10.63,
+      "Credit": "",
+      "Balance": 2264.27
+    },
+    {
+      "Date": "2019-05-22",
+      "Description": "DDA PURCHASE *5473 318811     WINN DIXIE    03 3805 NE    N MIAMI BEACH * FL",
+      "Debit": 30.46,
+      "Credit": "",
+      "Balance": 2274.9
+    },
+    {
+      "Date": "2019-05-22",
+      "Description": "DDA PURCHASE *5473 314017     COSTCO WHSE  1332           NORTH MIAMI   * FL",
+      "Debit": 23.48,
+      "Credit": "",
+      "Balance": 2305.36
+    },
+    {
+      "Date": "2019-05-22",
+      "Description": "ACORNS INVESTING TRANSFER",
+      "Debit": 20,
+      "Credit": "",
+      "Balance": 2328.84
+    },
+    {
+      "Date": "2019-05-21",
+      "Description": "Online Xfer Transfer to CC x0274",
+      "Debit": 176,
+      "Credit": "",
+      "Balance": 2348.84
+    },
+    {
+      "Date": "2019-05-21",
+      "Description": "GIROSOL          PAYROLL",
+      "Debit": "",
+      "Credit": 789.93,
+      "Balance": 2524.84
+    },
+    {
+      "Date": "2019-05-21",
+      "Description": "ACORNS INVESTING TRANSFER",
+      "Debit": "",
+      "Credit": 175.15,
+      "Balance": 1734.91
+    },
+    {
+      "Date": "2019-05-20",
+      "Description": "PAYPAL           INST XFER",
+      "Debit": 12.82,
+      "Credit": "",
+      "Balance": 1559.76
+    },
+    {
+      "Date": "2019-05-20",
+      "Description": "VISA DDA PUR 427539     MERKADO 31 CORP             MIAMI         * FL",
+      "Debit": 58.45,
+      "Credit": "",
+      "Balance": 1572.58
+    },
+    {
+      "Date": "2019-05-20",
+      "Description": "VISA DDA PUR 443106     PANDA EXPRESS 1174          NORTH MIAMI B * FL",
+      "Debit": 17.61,
+      "Credit": "",
+      "Balance": 1631.03
+    },
+    {
+      "Date": "2019-05-16",
+      "Description": "VISA DDA PUR 469216     BODYBUILDING COM            866 236 8417  * ID",
+      "Debit": 8.99,
+      "Credit": "",
+      "Balance": 1648.64
+    },
+    {
+      "Date": "2019-05-15",
+      "Description": "ACORNS INVESTING TRANSFER",
+      "Debit": 20,
+      "Credit": "",
+      "Balance": 1657.63
+    },
+    {
+      "Date": "2019-05-14",
+      "Description": "VISA TRANSFER 460005     P2P BENAVIDES   YISELYS     VISA DIRECT   * AZ",
+      "Debit": "",
+      "Credit": 25,
+      "Balance": 1677.63
+    },
+    {
+      "Date": "2019-05-14",
+      "Description": "VISA DDA PUR 460005     P2P YISELYS  BENAVIDES      VISA DIRECT   * AZ",
+      "Debit": 100,
+      "Credit": "",
+      "Balance": 1652.63
+    },
+    {
+      "Date": "2019-05-14",
+      "Description": "GIROSOL          PAYROLL",
+      "Debit": "",
+      "Credit": 789.93,
+      "Balance": 1752.63
+    },
+    {
+      "Date": "2019-05-14",
+      "Description": "VISA DDA PUR 413829     WU  0374550251              877 989 3268  * CA",
+      "Debit": 35.89,
+      "Credit": "",
+      "Balance": 962.7
+    },
+    {
+      "Date": "2019-05-13",
+      "Description": "ACORNS INVESTING TRANSFER",
+      "Debit": 25,
+      "Credit": "",
+      "Balance": 998.59
+    },
+    {
+      "Date": "2019-05-13",
+      "Description": "PAYPAL           INST XFER",
+      "Debit": 9.99,
+      "Credit": "",
+      "Balance": 1023.59
+    },
+    {
+      "Date": "2019-05-13",
+      "Description": "DDA PURCHASE *5473 318811     WINN DIXIE    03 3805 NE    N MIAMI BEACH * FL",
+      "Debit": 45.76,
+      "Credit": "",
+      "Balance": 1033.58
+    },
+    {
+      "Date": "2019-05-13",
+      "Description": "VISA DDA PUR 443106     9640 AMC ONLINE             888 440 4262  * KS",
+      "Debit": 30.94,
+      "Credit": "",
+      "Balance": 1079.34
+    },
+    {
+      "Date": "2019-07-12",
+      "Description": "WAL-MART SUPERCENTER 3235 3235 - NORTH MIAMI BEACH, FL",
+      "Debit": 37.42,
+      "Credit": "",
+      "Balance": ""
+    },
+    {
+      "Date": "2019-07-11",
+      "Description": "LA GRANJA N. MIAMI BEACH 6100140010836 - NORTH MIAMI B, FL",
+      "Debit": 9.36,
+      "Credit": "",
+      "Balance": ""
+    },
+    {
+      "Date": "2019-07-09",
+      "Description": "ONLINE PAYMENT - THANK YOU",
+      "Debit": -373.64,
+      "Credit": "",
+      "Balance": ""
+    },
+    {
+      "Date": "2019-07-07",
+      "Description": "CHECKERS #C190 - N MIAMI BEACH, FL",
+      "Debit": 17.53,
+      "Credit": "",
+      "Balance": ""
+    },
+    {
+      "Date": "2019-07-07",
+      "Description": "WAL-MART SUPERCENTER 3235 3235 - NORTH MIAMI BEACH, FL",
+      "Debit": 29.99,
+      "Credit": "",
+      "Balance": ""
+    },
+    {
+      "Date": "2019-07-06",
+      "Description": "H & M - MIAMI, FL",
+      "Debit": 26.74,
+      "Credit": "",
+      "Balance": ""
+    },
+    {
+      "Date": "2019-07-06",
+      "Description": "H & M - MIAMI, FL",
+      "Debit": 32.08,
+      "Credit": "",
+      "Balance": ""
+    },
+    {
+      "Date": "2019-07-05",
+      "Description": "8608 Dominos Pizza 000008608 - SUNNY ISLES B, FL",
+      "Debit": 17.1,
+      "Credit": "",
+      "Balance": ""
+    },
+    {
+      "Date": "2019-07-05",
+      "Description": "CARROT EXPRESS AVENT 436845558395264 - MIAMI, FL",
+      "Debit": 11.72,
+      "Credit": "",
+      "Balance": ""
+    },
+    {
+      "Date": "2019-07-01",
+      "Description": "CYBERGHOST PRO SUBSCRI - LONDON, GB",
+      "Debit": 49.5,
+      "Credit": "",
+      "Balance": ""
+    },
+    {
+      "Date": "2019-06-29",
+      "Description": "COQUIS LIQUORS - MIAMI, FL",
+      "Debit": 24.6,
+      "Credit": "",
+      "Balance": ""
+    },
+    {
+      "Date": "2019-06-29",
+      "Description": "PUBLIX - MIAMI, FL",
+      "Debit": 12.98,
+      "Credit": "",
+      "Balance": ""
+    },
+    {
+      "Date": "2019-06-29",
+      "Description": "WINN DIXIE - NORTH MIAMI BEACH, FL",
+      "Debit": 12.85,
+      "Credit": "",
+      "Balance": ""
+    },
+    {
+      "Date": "2019-06-27",
+      "Description": "CARROT EXPRESS AVENT 436845558395264 - MIAMI, FL",
+      "Debit": 22.04,
+      "Credit": "",
+      "Balance": ""
+    },
+    {
+      "Date": "2019-06-26",
+      "Description": "GINZA JAPANESE BUFFET - NORTH MIAMI B, FL",
+      "Debit": 10.8,
+      "Credit": "",
+      "Balance": ""
+    },
+    {
+      "Date": "2019-06-26",
+      "Description": "SC* TNW DEALS - VENICE, CA",
+      "Debit": 104.98,
+      "Credit": "",
+      "Balance": ""
+    },
+    {
+      "Date": "2019-06-22",
+      "Description": "THE HOME DEPOT - NORTH MIAMI BEACH, FL",
+      "Debit": 16,
+      "Credit": "",
+      "Balance": ""
+    }
+  ]

@@ -11,12 +11,26 @@ const conn = mysql.createPool({
 
 let budgetDB = {};
 
-budgetDB.all = () => {
+// get all transactions
+budgetDB.transactions_all = () => {
     return new Promise((resolve, reject) => {
         conn.query(`SELECT * FROM transactions`, (err, res) => {
             if (err) return reject(err);
 
             return resolve(res);
+        });
+    });
+}
+
+// insert bulk transactions
+budgetDB.transactions_insert_bulk = (transactions) => {
+    const query = 'INSERT INTO transactions(date,description, amount, balance)  VALUES ?'
+
+    return new Promise((resolve, reject) => {
+        conn.query(query, [transactions], (error, results, fields) => {
+            if (error) return reject(error);
+
+            return resolve(results.affectedRows);
         });
     });
 }
